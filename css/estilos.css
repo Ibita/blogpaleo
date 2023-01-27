@@ -1,9 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Ranchers&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Ranchers&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
 
 body
 {
-    color: darkblue;
+    color: green;
     text-align: center;
+    /*
     font-family: 'Oleo Script', cursive;
     font-family: 'Ranchers', cursive;
+    */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 20px solid gainsboro;
+    margin: 0 auto;
+}
+
+#post h1{
+    font-size: 40px;
 }
