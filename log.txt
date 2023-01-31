@@ -1,0 +1,78 @@
+commit c815c30a3e24b465c9aa1ba4f417b9f241b0dbb7
+Merge: 9ee551d 8c22321
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 30 17:47:58 2023 -0300
+
+    Merge branch 'cabecera'
+
+commit 9ee551dce77874b695ca3d65c1a461256437a7c9
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 30 17:22:45 2023 -0300
+
+    Agregado <p> para forjado de rockstars + cambio de tipografía
+
+commit 8c22321cc6f6e868c8d1a78fe7d3522e903e433b
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 30 16:51:09 2023 -0300
+
+    Finalizado el Header con diseño violeta
+
+commit 10a4721c88cc2afaa2e99f70c06a946d73756d80
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 30 14:08:05 2023 -0300
+
+    commit 2: Agregada carita picara al H1 del html
+
+commit 096e9ac0eda74adb4cc02f3157fbc5153a39ecbb
+Author: Ibita <growupup1991@gmail.com>
+Date:   Fri Jan 27 15:20:43 2023 -0300
+
+    commit 1: Estructura inicial de la cabecera del Blog de Ibita
+
+commit 63b9530a77780ed55eb23cb6366fe8c8a7c273e8
+Author: Ibita <growupup1991@gmail.com>
+Date:   Fri Jan 27 15:06:02 2023 -0300
+
+    commit 8: gota de agua en h1 del html
+
+commit 0281771747369a2f285f0eb405ac2fbb6a298dae
+Author: Ibita <growupup1991@gmail.com>
+Date:   Fri Jan 27 15:01:21 2023 -0300
+
+    commit7. rama Master/Main: cambios al html y al css. HTML-> agregado cultura y amor por DevOps desde UCI interno en mí. css: formato[F
+
+commit eb4363fb3a0b732cbd60dc1f19121a2c4f0b7bac
+Author: Ibita <growupup1991@gmail.com>
+Date:   Wed Jan 25 17:28:32 2023 -0300
+
+    commit 1. de nueva branch arrancada con la info del 1er commit de la rama Master. Hola -checkout-
+
+commit e955709aebdc9817cc33bd68c8bfc3dc8eb7b868
+Author: Ibita <growupup1991@gmail.com>
+Date:   Wed Jan 25 17:00:11 2023 -0300
+
+    commit 5: arch -tarde.txt-. Gracias
+
+commit a3d563b780ee75b998772aaea3c57653551ec39c
+Author: Ibita <growupup1991@gmail.com>
+Date:   Wed Jan 25 16:57:56 2023 -0300
+
+    commit 4: arch -tarde.txt-. Adoro mantenerme creciendo y aplicando
+
+commit e1923f6d6bcc5c747b2d3b54d389d70885437cfa
+Author: Ibita <growupup1991@gmail.com>
+Date:   Wed Jan 25 16:50:26 2023 -0300
+
+    Arranco Blog con Git. Gracias.
+
+commit 40fdee4eb3f1a2d3f98cd9122fd47d2b490ce7c5
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 23 17:47:13 2023 -0300
+
+    2do commit del archivo -tarde.txt-. Incluí una línea nueva y un AHORA.
+
+commit 0917dc874c2591bbb0b9ad8e3613a6557a8c1464
+Author: Ibita <growupup1991@gmail.com>
+Date:   Mon Jan 23 17:25:55 2023 -0300
+
+    Este es el 1er commit del archivo -tarde.txt-
