@@ -2,6 +2,8 @@ Esta es la tarde
 más mágica del mundo
 posible para hoy.
 
+Profundizando el flujo de trabajo Git. Cool.
+
 Este es el amanecer de este proyecto. It's perfect.
 
 Ahora estoy programando en JS - CSS - HTML - Git eando mi código. 
