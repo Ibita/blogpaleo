@@ -22,3 +22,5 @@ probando el rebase, para conocerlo y usarlo si acaso alguna vez ante una metida 
 en general usar rebase es una mala práctica. Me aporta serenidad seguir buenas prácticas y estabilidad a mi blog.
 
 Main 1
+
+Commit 2 en rama main              experimento-rebase posicionada en rama main
