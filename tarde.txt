@@ -10,6 +10,7 @@ Contribuyo a este proyecto Open Source, gracias al Fork de GitHub y a mi proceso
 Adoro contribuir. Gracias Fork. 
 
 Este es el amanecer de este proyecto. It's perfect.
+Main 1 en main
 
 Ahora estoy programando en JS - CSS - HTML - Git eando mi código. 
 Y es muy divertido.
