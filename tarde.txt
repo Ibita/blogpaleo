@@ -1,6 +1,7 @@
 Experimento 1 en rama nueva-rebase
 Esta es la tarde 
 más mágica del mundo
+Experimento 2 en rama nueva-rebase
 posible para hoy.
 
 Profundizando el flujo de trabajo Git. Cool.
