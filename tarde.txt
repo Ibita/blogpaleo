@@ -16,3 +16,9 @@ Y es muy divertido.
 
 
 te amoooo
+
+
+probando el rebase, para conocerlo y usarlo si acaso alguna vez ante una metida de pata solo EN LOCAL, NUNCA JAMÁS DE LOS JAMASES EN REMOTO.
+en general usar rebase es una mala práctica. Me aporta serenidad seguir buenas prácticas y estabilidad a mi blog.
+
+Main 1
