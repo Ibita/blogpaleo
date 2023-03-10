@@ -12,5 +12,8 @@ En este curso vemos de todo:
 * Verdadero amor por las buenas prácticas.
 * Trucos y  pura magia DevOps.
 * Creado por una alma apasionada de testing + DevOps
+* Creado por un alma apasionada de testing + DevOps
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Amable recordatorio: **Este README.md es broma de cacherreo y aprendizaje**. Es una actividad práctica. NO TE LO TOMES EN SERIO, disfruta tu proceso, [**y crece.**](https://www.incentro.com/es-ES/blog/diferencias-software-libre-open-source)
